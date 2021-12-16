@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kafyrova perizat</string>
+    <string name="decor">decor</string>
+    <string name="text">text</string>
+    <string name="button">button</string>
+    <string name="Home">Home</string>
+    <string name="rrr">21-42-34, Banjara Hills, Hyder....</string>
+    <string name="searchfoodnearby">Search food nearby</string>
+    <string name="efernces">Your Prefernces</string>
+    <string name="setmaximumuser">Set maximum users:</string>
+    <string name="actei">Select active users for current order:</string>
+    <string name="User">User 1</string>
+    <string name="you">You can now order from multiple restaurants at the same time, for various users at the click of a hand.</string>
+    <string name="set">Set them now!</string>
+    <string name="save">Save Changes</string>
+    <string name="peferences">Select Preferences</string>
+    <string name="multipleusers.">For multiple users.</string>
+</resources>
